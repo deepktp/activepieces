@@ -1,0 +1,7 @@
+# Workflows Disabled
+# 
+# This file exists to disable ActivePieces GitHub Actions workflows.
+# To re-enable workflows, simply delete this file.
+# 
+# Created: August 16, 2025
+# Reason: Prevent workflow runs for ActivePieces in Atom project
